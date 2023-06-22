@@ -1,4 +1,4 @@
-## Experiment 7
+## Experiment 20
 ## Aim:
 To perform aggregate functions on table.
 
@@ -72,5 +72,8 @@ FROM Books
 GROUP BY BookType  
 ORDER BY BookType 
 ```
+## Output
+![image](https://github.com/balaji-21005757/sql-7/assets/94372294/15e9296f-b377-4748-ade5-0789dd58aa69)
+
 ## Result:
 Therefore we have successfully performed aggregate functions on table.
